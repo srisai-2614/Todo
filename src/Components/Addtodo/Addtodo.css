@@ -1,0 +1,14 @@
+.FormContainer{
+    display: flex;
+    justify-content: center;
+    padding-top: 20vh;
+}
+
+.Input{
+   border: 0 0 0 0 #000;
+   
+}
+.Button{
+    background-color: rgb(0, 0, 2);
+    color: #fff;
+}
